@@ -1,6 +1,4 @@
-# MyApplication
-Simple Retrofit
+# Retrofit issue
 
-Medium blog of simple retrofit implementation in android kotlin.
+- When add new httpClient, it ends up triggering multiple calls
 
-https://harshitabambure.medium.com/simple-retrofit-in-android-kotlin-5264b2839645
